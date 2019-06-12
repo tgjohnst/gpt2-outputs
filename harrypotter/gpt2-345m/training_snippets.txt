@@ -1,0 +1,258 @@
+Training...
+[10 | 26.51] loss=2.93 avg=2.93
+[20 | 41.91] loss=2.91 avg=2.92
+[30 | 57.55] loss=2.83 avg=2.89
+[40 | 73.44] loss=2.88 avg=2.89
+[50 | 89.60] loss=3.17 avg=2.95
+[60 | 106.00] loss=2.80 avg=2.92
+[70 | 122.26] loss=3.10 avg=2.95
+[80 | 138.32] loss=2.95 avg=2.95
+[90 | 154.35] loss=2.89 avg=2.94
+[100 | 170.43] loss=2.83 avg=2.93
+[110 | 186.59] loss=2.53 avg=2.89
+[120 | 202.77] loss=2.58 avg=2.86
+[130 | 218.90] loss=3.12 avg=2.88
+[140 | 235.06] loss=2.83 avg=2.88
+[150 | 251.24] loss=2.97 avg=2.89
+[160 | 267.41] loss=3.14 avg=2.90
+[170 | 283.53] loss=2.75 avg=2.89
+[180 | 299.62] loss=2.98 avg=2.90
+[190 | 315.72] loss=2.88 avg=2.90
+[200 | 331.86] loss=2.86 avg=2.90
+======== SAMPLE 1 ========
+ he was right.
+"I was just telling you - you could see in that letter -'' he paused to check his mind.
+"What was in it for him?" said Harry, pointing his wand at the letter.
+"What was it?"
+The owl,
+"I will show you, Harry."
+"Who wrote it to Harry?" asked Ron, still sitting on the edge of their chair with the letter still open.
+"Harry," said Hermione, suddenly.
+"Mione?"
+Ron looked from Harry and Hermione to Harry and noticed that Ron had a bright red-rimmed, snake-like face.
+"He - he's not a wizard, you know. No, the owl says he likes you, because he thinks you're pretty. He's been reading your diary for the last couple of days about how he thinks about you, and about the last time you were a wizard. That owl wrote it, though, in the hope that you'd get it, because if it hadn't, he'd have been going into your diary again and again. If you could tell me what your plans are for dealing with these owls, I'll be able to keep the peace. We can do it like that, and I hope it works out OK. The only problem with that plan is, it won't work. The owls, though, will go straight for you. So I won't say too much after all. Now, Harry," said Hermione, taking the letter from your left hand.
+Harry opened the letter.
+"There," said Hermione, now opening the letter from his right, "what was that came from you?"
+"The letter," said Harry from under his breath. He didn't think of the letter that had come from Voldemort, as they had been talking all the time about it.
+"The letter," said Hermione, "what is this?"
+"Harry," she gestured, and took the letter from his hand. He did not realize, nor did he want to assume, that he had received Harry Potter's original letter. He was going to give it some thought and he was going to make his decision that day.
+Harry felt his heart break.
+"Mione," he said quietly as he removed his hand from the letter. "Are you serious? That can't - I mean, really -"
+"Harry."
+Ron opened his mouth slightly.
+"All right," Ron said. "Now, what do you think you're doing here, Ron?"
+Ron seemed to be thinking about what he was going to say to Harry before he said it, but he did not speak.
+"I don't want to say it," said Ron briskly. His eyes were fixed more on the letter than the owl's tail.
+"Then don't say something like that," said Harry briskly. "I suppose you'll give me the owl this coming Saturday. See you then, and I'll see you, then."
+Harry had readied himself for the owl's arrival at all times for weeks now. He would have expected the owl at least a fortnight before the owl could give Harry the letter.
+"Harry?" Ron called as the owl moved away.
+Harry looked around at the place where the owl had been, then at the spot where he had been, then back again to the letter.
+The owl appeared on the window-window of what was no doubt the owl's cabin. From Ron's point of view, it was clear that Ron liked the owl most.
+Ron's hands shook in panic in the carriage seat.
+"Hermione," said Harry, and he looked around at Ron and Hermione.
+It was now nearly six o'clock in the morning.
+"Good luck tomorrow, Harry," Hermione said coolly.
+And she left.
+Hermione sat beside Harry.
+"You're not going to tell anybody. You know what's in that owl, though? I was just curious. So - I was just reading your diary and there was something odd about the owl. It was flying over a lot of houses.
+"What's an owl. . . a hummingbird?" said Harry. The owl was flying over a field of wheat. It looked a bit of a hodgepodge thing to Harry, but it wasn't as if Harry didn't know.
+"Well, that bird's a hummingbird and a hummingbird -- a big, green owl. You know what I mean?"
+Hermione looked up. Harry saw that her hair had turned very long and, like the Owl, was much bigger than a hummingbird. She had blue eyes and was quite green; that she was, as were, most of those birds that we were watching.
+She said nothing else. Harry could not tell whether the Owl had changed at all; there were a lot of theories about how a hummingbird had suddenly gone green and how an owl was still flying in the sky. Harry tried
+
+[210 | 373.06] loss=2.65 avg=2.88
+[220 | 389.16] loss=3.07 avg=2.89
+[230 | 405.26] loss=2.55 avg=2.88
+[240 | 421.41] loss=2.34 avg=2.85
+[250 | 437.57] loss=2.88 avg=2.85
+[260 | 453.73] loss=2.94 avg=2.86
+[270 | 469.89] loss=2.55 avg=2.84
+[280 | 486.06] loss=2.89 avg=2.84
+[290 | 502.21] loss=2.71 avg=2.84
+[300 | 518.33] loss=2.05 avg=2.81
+[310 | 534.44] loss=3.29 avg=2.83
+[320 | 550.54] loss=2.51 avg=2.82
+[330 | 566.66] loss=2.87 avg=2.82
+[340 | 582.76] loss=2.88 avg=2.82
+[350 | 598.86] loss=2.58 avg=2.81
+[360 | 614.96] loss=2.55 avg=2.80
+[370 | 631.06] loss=3.09 avg=2.81
+[380 | 647.16] loss=2.87 avg=2.81
+[390 | 663.25] loss=2.90 avg=2.82
+[400 | 679.36] loss=2.60 avg=2.81
+======== SAMPLE 1 ========
+z (I could not stop thinking about him!)' Ron said, taking the chair vacated by Ginny. 'You cannot put someone like that into a cage or anything; they have the right instincts and I am certain that Voldemort did some dreadful magic and he was not able to control them. . . . But you must be very careful what you put into a cage.''
+Harry sat back in his chair. 'Voldemort did have a lot -''
+'But Dumbledore was not sure what, like, he was planning, like, anything,' said Ron. 'Harry must have told Voldemort the idea of torturing his mother, I mean, I know that,' Ron went on. 'You must be careful what you put into a cage or what.' Harry sat down again; he was so afraid of talking about it again. 'I know that you do not want to talk about what you did -'''
+'I did not know -'' said Ron. 'I will not put him in a cage.'
+'Yes, I will,' said Harry. 'I was prepared to kill him for such. . . . . But there was Dumbledore, and I do not think that he would have let me do it. I have done as I have told. You may go, and I will go and I will let people die. Oh yes, Harry, and you shall see him again in the morning ... and I would have told you not to go. . . . . You were in no hurry to leave, Harry. If anything, you hoped that when you came back to Hogwarts, the death would not scare you quite so much ... but you did not know what you would do when you left.... You did not even think of going to the D.A. You had no one, Harry, to talk to, and Dumbledore and Tonks, and Sirius ... and Dumbledore had not allowed you to leave the school and never return.'
+Harry sat down cross-legged, and Ron sat beside him.
+'Harry,' Ron began with a look of admiration, 'you were close enough for me ....'
+But Harry had to admit that in spite of his fear of death, he felt that he could speak only through Ron. 'I do not really think that,' said Harry, 'but I do think that if you have known - I think that if I had known. . . if you had done what I do, I would not have had to kill you. It was a stupid thing to do. You know I loved you all the same. You had made all the sacrifices that I do. You had given me my life and that of so many ... and I am not sure that I would have killed myself. But what you would have done is worse. And to know that . . . that you killed, that was not your fault.'
+Ron stared through Harry's eyes at the table, and Harry thought something terrible must have happened.
+'You killed?' he said desperately, a small lump in his throat, as he sat down to watch the clock ticking past ten.
+'Dumbledore did not kill you when you were in my office,' said Harry. 'He knew exactly what was going on.'
+'I don't think so,' said Ron, 'not for all the stupid things he did, but he knew what he was going to do. What Harry was going to do and that you would not - or that Harry would not have killed you. That you would have been a good Death Eater for him."
+After a pause, the door opened again with Snape as the master.
+"'If you will now return to your class,' said Dumbledore, heaping praise upon Harry for the skill he showed,' said Severus, 'I shall be pleased to take you to your seat. You will not take much rest,' he added, as Dumbledore left in a rush. ''You will be able to get to your next lesson, and of course, to return to your own bed at last. If you will not return to your own dormitory, I beg you, will not you do so. And do not look for yourself in the mirror again ... I shall have to touch me with my wand,' said Dumbledore. 'And you will know ... the courage to live in the wizarding world is not yours, but yours ....'"
+Harry looked up at Professor Umbridge. She had now been leaning in close beside his bed and she was staring at him for the first time since the D.A., which made him even angrier than he had last evening to come to understand her.
+He could tell that it made her look more like a bird he had just watched as they had been fed a feast by Fenrir, and that it had made those very first images in his mind hurt to look at.
+'You would still go back to your dormitory, Harry?' he whispered.
+'Oh yes, but I can't,' said Harry. 'What I would do would have been much more cowardly if it had not
+
+[410 | 717.80] loss=2.47 avg=2.80
+[420 | 733.89] loss=2.10 avg=2.78
+[430 | 750.00] loss=2.60 avg=2.77
+[440 | 766.10] loss=2.70 avg=2.77
+[450 | 782.23] loss=2.74 avg=2.77
+[460 | 798.37] loss=3.00 avg=2.78
+[470 | 814.53] loss=2.07 avg=2.76
+[480 | 830.65] loss=2.89 avg=2.76
+[490 | 846.77] loss=2.29 avg=2.75
+[500 | 862.87] loss=2.33 avg=2.74
+Saving checkpoint/run1/model-500
+[510 | 891.27] loss=2.73 avg=2.74
+[520 | 907.63] loss=2.79 avg=2.74
+[530 | 924.11] loss=2.35 avg=2.73
+[540 | 940.34] loss=2.27 avg=2.72
+[550 | 956.43] loss=2.67 avg=2.72
+[560 | 972.49] loss=1.97 avg=2.70
+[570 | 988.59] loss=2.64 avg=2.70
+[580 | 1004.75] loss=2.76 avg=2.70
+[590 | 1020.94] loss=2.81 avg=2.70
+[600 | 1037.09] loss=2.74 avg=2.70
+======== SAMPLE 1 ========
+
+Harry caught the Snitch off his arm immediately and watched it glide out of danger, then watched it plummet back into Professor McGonagall's hands, the tail end of its wing still intact. He wanted to see what it looked like again - the scabbed stump of the wing still glinting - but he could hear the other bird - the little black one - howling and howling in pain -
+"Professor McGonagall told us so," he muttered to Ron, "in her diary."
+"What do you mean?" Ron asked.
+"Don't you remember? She wrote her diary a week after I took the job, in case you haven't noticed. I was reading it when I heard."
+"What diary?"
+"I've got it here."
+"Dumped all your personal effects and stuff in my parents' bedroom, threw your old Quidditch team around all right, and wrote this diary?"
+"Er..." said Harry hesitantly. "I don't know."
+He had never found this diary to be very informative. It had been very difficult to remember everything he had learned from it. Perhaps he was hoping that the Snitch would help him remember exactly what it was that had happened in the Diary.
+The Snitch swooped out of the corner of his eye and fell to the ground.
+"Professor McGonagall said so!" cried Ron brightly.
+"What?"
+"Professor McGonagall said she was going to check the diary for you. She's really angry. Just wanted to tell you what to do."
+"How did you find out?" asked Ron, pulling the diary down to read. "What do you think of it?"
+"Well, if you think it's wrong, I don't blame you, Professor," said Ron.
+"Oh, sure," said Harry. But he had no idea how much Professor McGonagall was mad.
+"Is your mum still alive?"
+"Her family has been visiting her since."
+"Well -"
+"Professor Lupin came to see her today. Professor Lupin is the Defense Against the Dark Arts champion."
+"Do you like him?" asked Ron.
+"Yes."
+"Are you a member of the Order?"
+"Yes."
+"How old are you?"
+"Twelve."
+"Professor Lupin is leaving the school by the end of the year."
+"How long has he been a member of the Order?"
+"Um, a while."
+"Does your mum know?"
+"Not really, actually. She didn't say anything about it. Probably didn't want to look suspicious."
+"I suppose it doesn't matter though, as if Professor Lupin is leaving and there's a real shortage of Auror..."
+"Yes, if that's the sort of thing you want to hear," said Ron hopefully, "try and send me a letter to her again."
+"How do you know all this?" asked Harry. "Isn't it obvious yet?"
+"No, I'm only starting to think," said Hermione, wiping a tear from her eye. "There were a few other people I heard about, but no Aurors."
+"'It is with great regret that Professor McGonagall has concluded that Dumbledore and the Order of the Phoenix are worthy of her confidence, and that she will not be accepting any new members.'
+"What about you, then?" asked Ron.
+"Well, my mum's on the Quidditch team. She used to train with Dumbledore at the start of the century."
+Harry saw Ron's eyes widen as he nodded. He wondered whether Dumbledore was now trying to replace McGonagall, but it seemed unlikely that he would be able to do so.
+"Is that what you're doing?"
+
+
+Hermione raised a hoof as she watched the notebook.
+"Oh no!" she said, shaking her head. "He - he's not even going in with us! Don't stand by and watch this!"
+"She hasn't spoken to anyone since the end of last year!" said Hermione to Harry. She pointed her index finger at the bottom of the page.
+"What do you mean?"
+"She just told me. She said - she said Dumbledore's on the train, you know, with me, so she couldn't stop telling me. I can't believe it!"
+At this, Harry stopped reading at once.
+"What?" said Hermione, still pointing at the bottom of the page. "Well, how has this happened?"
+"Well, Professor, I would say Professor, but then we'd be telling the whole story! My mum and father used to work at the Ministry! That means she's out there - out on bail or something!"
+Hermione raised her hoof.
+"Well, how are you going to find out where he is? We used to take the train at different times, I suppose? We
+
+[610 | 1075.74] loss=2.86 avg=2.71
+[620 | 1091.87] loss=2.15 avg=2.70
+[630 | 1108.04] loss=2.66 avg=2.70
+[640 | 1124.19] loss=2.81 avg=2.70
+[650 | 1140.32] loss=2.81 avg=2.70
+[660 | 1156.44] loss=2.83 avg=2.70
+[670 | 1172.58] loss=2.62 avg=2.70
+[680 | 1188.74] loss=2.81 avg=2.70
+[690 | 1204.89] loss=2.17 avg=2.69
+[700 | 1221.02] loss=2.84 avg=2.70
+[710 | 1237.14] loss=2.30 avg=2.69
+[720 | 1253.25] loss=2.37 avg=2.68
+[730 | 1269.35] loss=2.38 avg=2.68
+[740 | 1285.44] loss=2.32 avg=2.67
+[750 | 1301.54] loss=2.43 avg=2.66
+[760 | 1317.66] loss=2.61 avg=2.66
+[770 | 1333.77] loss=2.58 avg=2.66
+[780 | 1349.87] loss=2.85 avg=2.67
+[790 | 1365.99] loss=2.14 avg=2.66
+[800 | 1382.13] loss=2.13 avg=2.65
+======== SAMPLE 1 ========
+ than Harry knew how long to continue, but not before they had reached the stone gargoyle outside at the far end of the Great Hall. Dumbledore stood with his back to them, his wand raised, looking down upon the assembled hall, and so did Harry and Dumbledore.
+It was obvious that Dumbledore wanted to have a word with Harry first. They could hear him whispering in Dumbledore's ear, whispering in his ear the names of Harry's Slytherins and Gryffindors, which he had picked out of a book of Gryffindor Quidditch Quills by heart.
+"Why have we come? Why are you here?"
+Dumbledore nodded and the silence broke quickly by the smell of food, a new batch of the finest cakes and wine. Half the tables were already crowded; Dumbledore had just opened the door into the fourth room, and there was a great scramble to get their feet out of the way without revealing too much about themselves.
+"We are here to see what is called the Cup and the Shield, and here is the truth about them. These are not to hurt the Cup, that is to say, so the person who uses them is not to take them away from you; in fact, the ones who do will be harmed. There is a great deal more to what this cup is than that. For a brief moment, we believe, the first human being to possess this Cup and the Shield was the first man in history to succeed Harry Dumbledore. He died two years ago, in the summer after Harry was born, and his ghost was taken by the other champions to the Cup."
+"You mean to say..." the room broke into utter silence again. Dumbledore suddenly jerked his head aside in a gesture of protest and Harry saw an expression of fascination flash across his own face and heard the doors of the Hall explode open.
+The first person to stand before Dumbledore was a boy wearing a large ruby crown and a cloak of dark green smoke; he was tall and beautiful, like Dumbledore, but his head was hidden behind his cloak. This was also the man that Dumbledore had taken Harry down to the vault at the bottom of the Hall, where Voldemort had hidden his body with his last acts.
+"And when did you see him?" asked Severus, his dark face and hoody face gleaming in the torchlight.
+Dumbledore smiled.
+"When we knew he had been killed."
+"But why?" asked Severus as he pulled open the great front doors to reveal the Hall full to the brim with people.
+"Death, of course, and the death of the Dark Lord," said Dumbledore and Severus took up the golden mantle and bowed so that the crowd was able to stare at him. They saw Dumbledore smile at them and the smile faded; the people around him became more and more translucent and they knew where he had gone. Harry saw Dumbledore gaze out at him longingly for a moment, but before they could tell him anything, he had dropped the curse to reveal to them the true nature of his spirit.
+Dumbledore stared at them as though he could not believe their eyes: the people standing beneath him, the ghosts they had sensed through the mist and the darkness, were now all looking back at him, frightened and frightened.
+"And," said Dumbledore softly. Then Harry understood. There was a strong emotion in the air, a feeling of dread that they would lose the Cup, even though they knew all along it had to be theirs.
+Dumbledore was listening. It was as though a voice was whispering to him. He spoke slowly to Harry, words so soft he might have been heard only by the most distant ears.
+"There will be others. Many are there that have the ability to use these powers. There will be others like me, I expect you to know these. I know that the others do not know, and there are secrets that they do not want to talk about, I do not know how they are."
+"The Cup? Can you show us it? Show us? Can you tell us?"
+Dumbledore nodded.
+Harry watched a strange, wonderful thing happen in his soul. He saw his own body, empty and empty and as silent as the Hall, moving slowly out of sight up the marble staircase into the Hall ahead, until it struck him that the thing he was seeing was impossible. Then he heard a voice.
+"So?"
+"No," said Dumbledore. He looked back at the people standing beneath his cloak, and a great smile appeared in his face. "It is all I need to remember these things."
+There was a moment's silence in the Hall. Then Dumbledore spoke again, and again he smiled at their questions as they seemed to know what he was saying.
+"It is the same thing in ours. Those who do have these powers, they share them with others, not necessarily with the same motives, but not necessarily to the same ends."
+Dumbledore looked very carefully up the stairs. He glanced over his shoulder
+
+
+"It was a little over a year ago, and I fell off my broomstick while trying to get them out of the park. One of them landed in the snow and I was knocked out cold. They're supposed to be very hard to catch. I got them back safe and sound."
+"They're not so hard, Harry," said Hermione. "Yeah, they are. They'll learn to live with their diminutive size. I wish I'd got them to help me catch Lucius Malfoy."
+"I wish I'd got them to help me catch him, too," said Harry. "I'd have been really happy if I'd been able to kill him. He was always trying to make friends with the Death Eaters. I'd have been able to kill him in one shot, like I did with the snake, and then have the
+hope I'd be able to finish him off."
+Hermione looked at him, puzzled.
+"Can't you see your scar on the ground? He should be dead by now... it looks so painful. I've never seen an injury that bad, Harry."
+"Don't be stupid," Harry said. "His scar isn't that bad."
+"You know what?" Hermione said.
+"Yes, I know... it's stupid to think it's something that could have been avoided."
+"I know," said Hermione, still puzzled. "It's not stupid to look at it when we're asleep. And I bet it's not stupid to think it
+could have been avoided..."
+She looked terrified. What was most irritating about the boy's scar was that he was trying to play the hero.
+"Only thing is," he growled. "I've got Lucius Malfoy and I'm supposed to be the hero."
+"But you're not the hero," said Harry.
+"I am the hero," said Voldemort.
+"Then what is it?" Hermione whispered, as though she was trying to get through to him.
+"You're the one who saved my life," said Voldemort.
+"Yes," said Harry, "I'm the one who saved your life."
+"You have saved my life, Harry," said Voldemort. "I told you to kill him! I told you to kill him, and you did it!"
+And he turned to face her, angry and angry, and Harry knew it would come out. He had been saved. He was not the hero, but he was the one who had done it.
+"I don't have a choice," he said, "I'm the one who has got to kill him!"
+"What did you do, Harry?" Hermione snarled.
+"I was standing over him," said Voldemort. "They were fighting, he was dying, I couldn't do anything, he was alone and I couldn't save him, I was stupid. I let him die. I saved his life - what are you thinking?"
+"I do not think," said Harry, "I did not think he was going to save my life, and I'm sorry I let him die."
+"You're the one who killed him, and you're the one who wants to die!" said Voldemort, furious. "You are the one who wanted to die!"
+"I'm the one who didn't want to die," said Harry.
+"You're the one who let him die, Harry!"
+"I'm the one who won't die!" said Harry.
+"I've got to fight you, you know," said Voldemort. "I've got to fight you till your last breath. If I can't, I'll kill you, Harry. You're the one who's been chosen, Harry. You're the one who's been chosen to save lives. You're the one who's got to die. You're the one who's got to live, Harry. I can't stand by and watch other people suffer, Harry. You've got to kill him."
+"I don't think I'm going to die, sir," said Harry.
+"You're the one who's got to die, you're the one who's still got a chance of winning, Harry. I've got to kill him, you know. I can't live while he's alive. I can't live until my chance's gone. I must make you kill me. Just have to, sir.
+"I'm going to kill him, Harry. I'm going to kill him, and even if you try and stop it, Harry. And I'm going to kill him, and you're going to have to fight for it."
+"But I can't, sir," said Harry, tears running down his face. "I can't have him... I can't."
