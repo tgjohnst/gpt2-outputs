@@ -17,7 +17,7 @@
       He went in and sat for a moment, and then suddenly he sang:`
       
 # 800 epochs
- `'Come with me!' said Pippin. 'To the bed with the covers on and the doors closed!'
+ ` Come with me!' said Pippin. 'To the bed with the covers on and the doors closed!'
      The king went out and opened the door, and they walked in. Frodo was lying on the ground with his legs splayed, and his arms behind his head, and lying on his sides with hands clasped behind his knees. Sam was crouched on the ground near the foot of the rock-wall beside Frodo.
      The king passed his hands on his face. Frodo's eyes were opened only to a shallow dark spot behind: his hand and the side of his head between the eyes. Fond to his heart of heart he looked at the light within and was healed in his doubts, like a small child who looks on the face of an old friend.
      'The moon is full,' said the King, turning from the wall of stone and turning around to pass his weary feet through the snow. 'I have done my best, and must thank you for all your hard labour. Come! Let us sleep! Come! Sleep and wake in the morning!'
@@ -60,7 +60,7 @@
      'Yes,' cried Sam, 'they are very big. There is a dark secret at work in all the land.`
      
 # 1200 epochs
-`'But this is not the way, I fear. This is not a way of escape, I fear. No, I do not think so; and if you think so, you are blind, perhaps: either you see not, or you do not. You would not think of seeking for a ladder up a great ravine with long necks, till you saw some signs that it was you, and that this was the way to go. I did not look, but I know that you mean to go.
+` But this is not the way, I fear. This is not a way of escape, I fear. No, I do not think so; and if you think so, you are blind, perhaps: either you see not, or you do not. You would not think of seeking for a ladder up a great ravine with long necks, till you saw some signs that it was you, and that this was the way to go. I did not look, but I know that you mean to go.
      'You see, if Frodo is not found, the Ring will not help us; and you will not learn the way, unless it is set on you.'
      'That hardly seems any good hope,' answered Gandalf. 'You say something like this to yourself and I say: "Hoom, hoom! I am glad that you are alive. Even though you have said that you wished for the Ring. I hope that it will be found in a fight, and for good and for evil in the battle that you wish to fight." I hope that they will find it, and that they will know about it, or it will make their way to them." That seems to me to be a very great wish. And it seems to others that way too loud. The Enemy holds it: to think that you and I, who know so little about such matters, can cast aside our fear and wish for the Ring of Power. I am afraid that it is all going to waste on such foolishness.'
      'You are mistaken,' said Frodo with a clear voice. 'It is not all going to waste.' He spoke with a clear voice, and a doubt, as if all thought of the Ring had vanished into thin air.
@@ -93,7 +93,7 @@
      Merry went up to the bed, and laid himself upon it`
 
 # 1600 epochs
-`'But in my land it was never in the hands of the English, as you see,' said Frodo. 'If I may venture to say so, it is because the Enemy has crossed over the River and is bound on the Mountains. And why not? It is a dreadful torment for his enemies.'
+` But in my land it was never in the hands of the English, as you see,' said Frodo. 'If I may venture to say so, it is because the Enemy has crossed over the River and is bound on the Mountains. And why not? It is a dreadful torment for his enemies.'
     'It is his fault, but he does not all his evil deeds,' answered Gandalf. 'He chooses friends, and friends choose friends. It is fortunate for us that we have not had the Enemy as friend, or one chosen for our evil. Yet there are not many friends in the world and there are not many places where those at a loss can turn.'
     'You are fortunate,' said Frodo. 'You may say that I did not deserve the trouble in death. Yet if it had not been for the help of Gandalf, I should have long been forgotten.'
     'You will die in the battle, of course,' said Gandalf. 'Will you not go? I think not. But I do not hope so. I wish you well. Do not run. And see to it that your pledges of faith and courage are kept.'
