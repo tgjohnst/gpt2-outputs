@@ -3,63 +3,61 @@ A man came up, followed by two or three servants. They went down and stood near 
         ' 'It is not the guards that bear on us; the visitors bear the weapons,' said the Master.
        Frodo remained silent. 'No,' he answered slowly, 'but only a handful of people can help you. Some of these I have brought from the Shire, but we have been sent by Aragorn to keep watch in your house and keep you safe at heart. Others of my folk I have chosen to bring to see for a day or two at least.'
       'Good.' said Gandalf. 'We will be pleased to welcome them.'
-
        Frodo left the hall and came outside into the light of evening. 'Look!' it said. 'The hobbits are home. They have come for good.' 'Yes, indeed.' answered Bilbo. 'And they come all to ask me to speak to you. It is strange to me; but we must be going in peace.'
          He went to his room and threw himself down into a dark corner. He lay down on his bed, feeling the chill air on his face. It was now early evening, but the stars had already risen in the sky. He felt that he could hear them clearly; his head was spinning and he could hear the distant voices moving away into the woods. When he woke he saw that the fire was lit: the hobbits had crept into the room and were sleeping still as though it had been a time of day. Sam had been singing along loudly and loudly as he slept. Merry had risen and been sitting on his bed.
-          `Well,' said Bilbo, `here's another part of my song from old Frodo. I have been thinking about it, and it is very queer. I don't like it.'
+          'Well,' said Bilbo, 'here's another part of my song from old Frodo. I have been thinking about it, and it is very queer. I don't like it.'
           'There! Now you can hear me!' said Merry; 'and you can see what Frodo is thinking about, though he is not very clear now.' At the beginning it was rather strong and rough, but gradually it grew softer and clearer.
           'Look!' it said. 'Now it sounds like this: I am not sure if I ever hear this before, and it is not from the forest. Now I hear it:         This is Frodo.'
         'It is, isn't it, Bilbo?' exclaimed Frodo. 'Well, it sounds a lot like the old song, but no – it isn't! What were they saying at the beginning?'
-        'That's a good question,' said Bilbo, `but I don't know. We might have heard something that is like that, but I can't see it clearly now. I think I have heard some whistle.'
-        'So does Frodo,' said Merry. `There is a sound like a whistle that you can't quite make out.'
-       'Maybe we have heard the whistle when we were out at night and came down the path.' 'Of course!' said Bilbo. `I thought we had!'
-        `Well, if that is the music, then we are ready to start!'
-       'Well, let us start on this night!' he said. `It is the last night in our business. I have a song to tell you: it is my favourite, it tells of a great battle in the Shire that was fought by Frodo to keep the Ring from being broken. This is the story of it now; it is not too long since the war broke out.'
+        'That's a good question,' said Bilbo, 'but I don't know. We might have heard something that is like that, but I can't see it clearly now. I think I have heard some whistle.'
+        'So does Frodo,' said Merry. 'There is a sound like a whistle that you can't quite make out.'
+       'Maybe we have heard the whistle when we were out at night and came down the path.' 'Of course!' said Bilbo. 'I thought we had!'
+        'Well, if that is the music, then we are ready to start!'
+       'Well, let us start on this night!' he said. 'It is the last night in our business. I have a song to tell you: it is my favourite, it tells of a great battle in the Shire that was fought by Frodo to keep the Ring from being broken. This is the story of it now; it is not too long since the war broke out.'
       He went in and sat for a moment, and then suddenly he sang:
       
 # 800 epochs
-     'Come with me!' said Pippin. 'To the bed with the covers on and the doors closed!'
+'Come with me!' said Pippin. 'To the bed with the covers on and the doors closed!'
      The king went out and opened the door, and they walked in. Frodo was lying on the ground with his legs splayed, and his arms behind his head, and lying on his sides with hands clasped behind his knees. Sam was crouched on the ground near the foot of the rock-wall beside Frodo.
      The king passed his hands on his face. Frodo's eyes were opened only to a shallow dark spot behind: his hand and the side of his head between the eyes. Fond to his heart of heart he looked at the light within and was healed in his doubts, like a small child who looks on the face of an old friend.
-
-     `The moon is full,' said the King, turning from the wall of stone and turning around to pass his weary feet through the snow. `I have done my best, and must thank you for all your hard labour. Come! Let us sleep! Come! Sleep and wake in the morning!'
+     'The moon is full,' said the King, turning from the wall of stone and turning around to pass his weary feet through the snow. 'I have done my best, and must thank you for all your hard labour. Come! Let us sleep! Come! Sleep and wake in the morning!'
      Frodo awoke, breathing deep. It seemed to him that he was frozen solid beneath a great stone. His head was swathed in the cover of fallen snow, his arms were behind his head, and the limbs were laid flat upon his side. He could now hear, far below him in the midst of the sea, the soft voice of his sleeping kinsman and companion.
      Frodo could make no more of it, though he drew himself up, a little trembling, and pressed his lips to his swollen throat. It was not at times he looked back at his friends: they had been merry and merry, and he had not seen a good story in his life; they were laughing now and again, and he felt that he was the victim of their mocking scorn. He groaned and opened his eyes, finding himself on the rock's brink, gazing down into a dark well from which his mind could not see the light of morning. A chill wind was blowing towards him.
      'Morning comes, and night falls,' said Merry.
-     `The snow is falling,' said Sam. `But I can smell it: it's going up!'
-     `What do you think is happening in that dark place out there down there?' said Merry.
-     `Nothing, if you take me back to the bridge.' answered Frodo, who had fallen into the well. `Nothing, if you will.'
+     'The snow is falling,' said Sam. 'But I can smell it: it's going up!'
+     'What do you think is happening in that dark place out there down there?' said Merry.
+     'Nothing, if you take me back to the bridge.' answered Frodo, who had fallen into the well. 'Nothing, if you will.'
      Suddenly there was a cry from above the treeline, and Merry ran from the rock with Sam. With him went the King, coming towards them, looking as if he were running from something, but his face was hidden in thoughts. He seemed almost to be asking:
-     `What's happening here?'
+     'What's happening here?'
      They did not answer.
      Merry and Sam came out, and found Frodo lying as if he had been frozen on the ground. The others were strung on poles, and they could not get off. Frodo was still trembling. They did not move him. Then Merry turned to Sam. And soon it was plain that Sam was dying for what was left to him, and that his best friend, Frodo his prisoner, would be saved only by his life, which would indeed in all likelihood be the last hope.
 
-     In the end they sat with Frodo in the cold darkness, silent, with hands on his breast, and gazing at the pale snow. Merry slept on. Frodo lay for a while with Sam beside his bed. He did not speak. As the night deepened, the sound of his breathing rose, became shrill and clear, and in the middle he began to move as if he was speaking. He said words to himself aloud in his heart and mouth:
-     'I hope the wind blows fresh. I'll start. I'll start. I'll start up.'
+   In the end they sat with Frodo in the cold darkness, silent, with hands on his breast, and gazing at the pale snow. Merry slept on. Frodo lay for a while with Sam beside his bed. He did not speak. As the night deepened, the sound of his breathing rose, became shrill and clear, and in the middle he began to move as if he was speaking. He said words to himself aloud in his heart and mouth:
+   'I hope the wind blows fresh. I'll start. I'll start. I'll start up.'
 
-     Then Frodo stirred and said nothing for some time. Then two voices came together in the dark, stillness. One was soft and soft and spoke slowly in his broken Elvish language, the other a higher and more gruff language. The third voice spoke in a harsh and harsh voice. One could hear the sound of some of the words that were being spoken, and could hear them as words spoken by a dwarf of dwarven origin.
-     Frodo opened his eyes wide, and looked around. Then suddenly the voice spoke again. `Look, my friends! Look!
+   Then Frodo stirred and said nothing for some time. Then two voices came together in the dark, stillness. One was soft and soft and spoke slowly in his broken Elvish language, the other a higher and more gruff language. The third voice spoke in a harsh and harsh voice. One could hear the sound of some of the words that were being spoken, and could hear them as words spoken by a dwarf of dwarven origin.
+     Frodo opened his eyes wide, and looked around. Then suddenly the voice spoke again. 'Look, my friends! Look!
 
 # 1000 epochs
-     Frodo's hope hope was that we would survive long enough to reach the top and see the end of this great battle, even if we only ended up there.'
+   Frodo's hope hope was that we would survive long enough to reach the top and see the end of this great battle, even if we only ended up there.'
      The moon was shining now, and its curving edge lay over the sea in a thin ray of light. The stars and stripes of dawn had faded behind as far as the eyes could reach. The wind was in the West, and all the trees were alive.
      Frodo was watching the wisps of white flecked cloud about the giant with a keen gleam in his eye: the moonlight glimmered in his feet and head, and he smiled as he saw it. The wind seemed to freshen his breathing, and his shoulders as he walked: it seemed to be the freshest he had felt all summer.
-     `But the moon isn't full yet,' he muttered. `I wonder if the moon will rise again before long? We should hope so. Then maybe I can pass into the desert, and look for that moon. Not that I am looking for it now. I am wondering what is going on in the world.'
-     `It isn't just that, Mr. Frodo,' said Sam. `It's like that about the Moon: something that is growing stronger. We never thought we would live to see it rise again!'
-     `I never imagined I'd come so far from home,' said Frodo. `But I guess I'll never see it again: it's getting old.'
-     `But it's growing stronger,' said Sam, `and it's no moonlight: it's the truth. The world isn't as it used to be. If you want to know. I can see a bit of it before you. It's changing all over the place. Things are going mad. I wish I'd never left home at all. I wish we were in Brandybucks instead of Brandybuck.'
-     `And that would just be so, you know,' said Frodo, `if they were all just going off to war to avenge themselves on Minas Morgul. I'd rather go to war myself. I just don't see why we should go to war over nothing.'
+     'But the moon isn't full yet,' he muttered. 'I wonder if the moon will rise again before long? We should hope so. Then maybe I can pass into the desert, and look for that moon. Not that I am looking for it now. I am wondering what is going on in the world.'
+     'It's like that about the Moon: something that is growing stronger. We never thought we would live to see it rise again!'
+     'I never imagined I'd come so far from home,' said Frodo. 'But I guess I'll never see it again: it's getting old.'
+     'But it's growing stronger,' said Sam, 'and it's no moonlight: it's the truth. The world isn't as it used to be. If you want to know. I can see a bit of it before you. It's changing all over the place. Things are going mad. I wish I'd never left home at all. I wish we were in Brandybucks instead of Brandybuck.'
+     'And that would just be so, you know,' said Frodo, 'if they were all just going off to war to avenge themselves on Minas Morgul. I'd rather go to war myself. I just don't see why we should go to war over nothing.'
      Sam's face was red as he read Frodo's thought out loud like a poet:
      'It is time we took the road in earnest '
      'It has been a long hard road for a good part of my life, in fact, and I wish never to return to it again'
      'Yes, that couldn't be helped,' said Frodo. 'But we must take the road in earnest, without more ado. What were you thinking about, I wondered if you were going to turn up and help me?'
-     `There seems to be other things I should like better than wandering in strange lands, Mr. Frodo,' Sam said. `And I should like to get more news out of you, if you want it. But you're so eager, that you seem to have forgotten your danger.'
-     'I do,' said Frodo, `but I don't see why there should be any harm in helping, Mr. Frodo. Whether I can or not.'
-     'I wonder,' said Sam, `why you should. If you were really going after Mr. Bilbo, after I heard him talking to the Moon, then you'd know all about the ring. And you'd also know all about Gollum. But to be perfectly honest, I've never been a big fan of Gollum.'
-     'All right,' said Frodo; `but I don't understand you at all, Sam. You don't seem to know anything about him. He hasn't been a Baggins.' And the idea of the Ring seemed to be in his mind.
-     'Oh you do! ' said Sam in a clear and commanding voice. 'Why don't you come and see for yourself, Mr. Frodo, at once? It's dangerous. He's got a deadly evil eye.' Sam took Frodo's hand and shook it gently. `The Ring!' He cried. 'I think you would find that it would make you nervous, and very dangerous. You wouldn't want to come near it again, if you weren't sure it'd go away. But it wouldn't, if you knew what you were going to do.'
-     `What's wrong with Gollum? ' said Frodo. Sam rubbed his hands in his ears. `You can see him, and he can see things: his big eyes on the Moon.'
-     `Yes,' cried Sam, `they are very big. There is a dark secret at work in all the land.
+     'There seems to be other things I should like better than wandering in strange lands, Mr. Frodo,' Sam said. 'And I should like to get more news out of you, if you want it. But you're so eager, that you seem to have forgotten your danger.'
+     'I do,' said Frodo, 'but I don't see why there should be any harm in helping, Mr. Frodo. Whether I can or not.'
+     'I wonder,' said Sam, 'why you should. If you were really going after Mr. Bilbo, after I heard him talking to the Moon, then you'd know all about the ring. And you'd also know all about Gollum. But to be perfectly honest, I've never been a big fan of Gollum.'
+     'All right,' said Frodo; 'but I don't understand you at all, Sam. You don't seem to know anything about him. He hasn't been a Baggins.' And the idea of the Ring seemed to be in his mind.
+     'Oh you do! ' said Sam in a clear and commanding voice. 'Why don't you come and see for yourself, Mr. Frodo, at once? It's dangerous. He's got a deadly evil eye.' Sam took Frodo's hand and shook it gently. 'The Ring!' He cried. 'I think you would find that it would make you nervous, and very dangerous. You wouldn't want to come near it again, if you weren't sure it'd go away. But it wouldn't, if you knew what you were going to do.'
+     'What's wrong with Gollum? ' said Frodo. Sam rubbed his hands in his ears. 'You can see him, and he can see things: his big eyes on the Moon.'
+     'Yes,' cried Sam, 'they are very big. There is a dark secret at work in all the land.
      
 # 1200 epochs
 'But this is not the way, I fear. This is not a way of escape, I fear. No, I do not think so; and if you think so, you are blind, perhaps: either you see not, or you do not. You would not think of seeking for a ladder up a great ravine with long necks, till you saw some signs that it was you, and that this was the way to go. I did not look, but I know that you mean to go.
@@ -80,13 +78,13 @@ A man came up, followed by two or three servants. They went down and stood near 
 they came to that valley, and the trees became little more than tufts of old growth. They rode down the westward slopes of Emyn Muil, and then turned away from the green pastures of Lamedon towards the hills of the Emyn Muil as they marched on towards Dol Amroth. There were no villages here, nor houses, nor houses with houses; only herdsmen with herds. But before the travellers could reach the foot of Amon Hen they were overtaken by a long porter-house and barrow-and-messengery, each with a barrel of wood, and no other furniture or object at any rate of wood, save a few bowls of thick porridge, and an empty beer bottle. All that was needed for the sleep of this weary hobbit was a little water, a snack of fresh fruit, and perhaps a soft bed. At any rate they needed a good night's rest and a sleep for the waking pains.
      Gandalf lifted the barrow. 'Here lies Mablung the Shipwright!' he said. 'We ride to meet him; but we have not yet reached him or spoken to him. We will come and see him in his own time. Rest now, and call upon us when you have eaten!'
 
-     Down from the hill-top they rode, and stood upon the threshold of the Messenger's Quarters, gazing at the stone doors upon the left, and the tall door upon the right; and they did not look more than once at the old building under which they stood. Then each of the four companions slipped from the saddle and got a little closer to the stone doors, and looked back; and they saw all new and strange that they had seen upon the way; and they felt amazed at Gandalf's power of perception, and at the quickness with which he rode back to the walls. There was still a great darkness about them, and the wind was still blowing, but the doors were closed. They were alone on the third day of their journey, and Gandalf was at no times heard singing or singing; his voice was cold and lifeless.
+   Down from the hill-top they rode, and stood upon the threshold of the Messenger's Quarters, gazing at the stone doors upon the left, and the tall door upon the right; and they did not look more than once at the old building under which they stood. Then each of the four companions slipped from the saddle and got a little closer to the stone doors, and looked back; and they saw all new and strange that they had seen upon the way; and they felt amazed at Gandalf's power of perception, and at the quickness with which he rode back to the walls. There was still a great darkness about them, and the wind was still blowing, but the doors were closed. They were alone on the third day of their journey, and Gandalf was at no times heard singing or singing; his voice was cold and lifeless.
      At the first gate Gandalf came out of the shadows of the house with a welcome and a door open, and he welcomed the travellers. 'Welcome, and may your journeys be many and noble!' he said. 'It is long since we rode from the Misty Mountains, and yet on this last day we ride to the Shire, and perhaps we will find that this same Gandalf will lead you on your way. But welcome also, good Men and Wise, and the Dark Lord will know that you rode from the East.'
      'The Shadows of Mordor?' said Aragorn.
      'I do not know about the Dark Lord,' said Gandalf 'but I fear that he has many servants, and even in the West he may have spies. Be wary! But in the old days he used to travel at pleasure, as you might say. It is an age before he has become dull and patient, as you might say. Still, if we return he will be the greatest wizard the world has ever seen.'
      Merry looked at the door, and sighed. 'We may as well leave it, while we are still here,' he said, 'especially if we are to get to Rivendell.'
 
-     At last the doors closed silently behind them. Aragorn stepped forward to the barrow. 'Come!' he said. 'And may all your journeys be long and happy!'
+   At last the doors closed silently behind them. Aragorn stepped forward to the barrow. 'Come!' he said. 'And may all your journeys be long and happy!'
      Merry bowed his head, and stood there quiet and silent for a while. at length Aragorn spoke again. 'I know it, as soon as I entered the house, and knew it even before you came,' he said. 'My welcome and all thanks to Merry, Warden of the House of Eorl.'
      'Indeed!' said Gandalf 'then you also deserve tributes, lord. More than once I have granted them.'
      'Yes, we do,' said Aragorn. 'That is our custom, when we meet with anyone who will help us, and to whom we will talk. But this I will say in private, whoever he or she be, and whatever he or she be, you will soon learn that I am in need.'
@@ -100,7 +98,7 @@ they came to that valley, and the trees became little more than tufts of old gro
     'You are fortunate,' said Frodo. 'You may say that I did not deserve the trouble in death. Yet if it had not been for the help of Gandalf, I should have long been forgotten.'
     'You will die in the battle, of course,' said Gandalf. 'Will you not go? I think not. But I do not hope so. I wish you well. Do not run. And see to it that your pledges of faith and courage are kept.'
 
-    He lifted the last phial and held it up and gazed at it thoughtfully. Then he sighed. 'Behold, here indeed is my last wager,' he said. 'It has been well done, I say to my friends.'
+  He lifted the last phial and held it up and gazed at it thoughtfully. Then he sighed. 'Behold, here indeed is my last wager,' he said. 'It has been well done, I say to my friends.'
     Frodo looked in wonder at Gandalf, and Gandalf looked down at him in amazement, and then with sudden pity he shook his head, saying: 'Never thought a hobbit would see such a thing.'
     'Never!' cried Frodo suddenly, looking up. 'You think I have never used such a wager? Is this the last stroke against me?'
     'Did I not say so?' said Gandalf.
@@ -111,7 +109,7 @@ they came to that valley, and the trees became little more than tufts of old gro
     'No!' said Frodo. 'I must go. I must leave the Shire first, and I must go to Hobbiton and to the Grey Havens. But I beg your pardon. I am in haste.'
     'Very well,' said Gandalf. 'Hobbits go through all the lands that are behind, and they come home. But there are many things to consider, and a journey of many long and distant rides may prove long and unpleasant. I shall leave you until nightfall, as you deserve. It will have to be very dark.'
 
-    The next day Frodo was lighter, but his spirits dropped a notch. He said nothing and watched little. The night passed without his seeing or hearing anything strange. In that way the next day seemed to pass almost without event. But in the days that followed the dark hours passed with greater frequency, and Frodo's sleep became harder and less easy. His limbs grew light and weary. He could not climb stairs or go on roads without the help of a few good hearty hobbits. His appetite grew almost sombre. It was not easy to find or keep track of the Ragged Men that were always with him, and never quite as happy as it would have been without him.
+  The next day Frodo was lighter, but his spirits dropped a notch. He said nothing and watched little. The night passed without his seeing or hearing anything strange. In that way the next day seemed to pass almost without event. But in the days that followed the dark hours passed with greater frequency, and Frodo's sleep became harder and less easy. His limbs grew light and weary. He could not climb stairs or go on roads without the help of a few good hearty hobbits. His appetite grew almost sombre. It was not easy to find or keep track of the Ragged Men that were always with him, and never quite as happy as it would have been without him.
     By the end of the ninth day he was really tired of walking, and he did not go further, until the eleventh. That was the night of Daybreak. The Shire was in mourning. The Riders had vanished. Few people remained in Mordor. There were whispers, and good grins on the faces of the hills; but the moon was now full, and her light fell as she passed northward, and far ahead southward the black shadow of the mountains loomed a little to the north. Suddenly as Frodo got down and began to crawl away once more he felt the hand of Gandalf on his shoulder, and he lifted his head
     
 # 1800 epochs
