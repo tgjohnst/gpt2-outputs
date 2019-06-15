@@ -17,7 +17,7 @@
       He went in and sat for a moment, and then suddenly he sang:`
       
 # 800 epochs
-`'Come with me!' said Pippin. 'To the bed with the covers on and the doors closed!'
+ `'Come with me!' said Pippin. 'To the bed with the covers on and the doors closed!'
      The king went out and opened the door, and they walked in. Frodo was lying on the ground with his legs splayed, and his arms behind his head, and lying on his sides with hands clasped behind his knees. Sam was crouched on the ground near the foot of the rock-wall beside Frodo.
      The king passed his hands on his face. Frodo's eyes were opened only to a shallow dark spot behind: his hand and the side of his head between the eyes. Fond to his heart of heart he looked at the light within and was healed in his doubts, like a small child who looks on the face of an old friend.
      'The moon is full,' said the King, turning from the wall of stone and turning around to pass his weary feet through the snow. 'I have done my best, and must thank you for all your hard labour. Come! Let us sleep! Come! Sleep and wake in the morning!'
