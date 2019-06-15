@@ -17,7 +17,7 @@ A man came up, followed by two or three servants. They went down and stood near 
        'Well, let us start on this night!' he said. `It is the last night in our business. I have a song to tell you: it is my favourite, it tells of a great battle in the Shire that was fought by Frodo to keep the Ring from being broken. This is the story of it now; it is not too long since the war broke out.'
       He went in and sat for a moment, and then suddenly he sang:
       
-#800 epochs
+# 800 epochs
      'Come with me!' said Pippin. 'To the bed with the covers on and the doors closed!'
      The king went out and opened the door, and they walked in. Frodo was lying on the ground with his legs splayed, and his arms behind his head, and lying on his sides with hands clasped behind his knees. Sam was crouched on the ground near the foot of the rock-wall beside Frodo.
      The king passed his hands on his face. Frodo's eyes were opened only to a shallow dark spot behind: his hand and the side of his head between the eyes. Fond to his heart of heart he looked at the light within and was healed in his doubts, like a small child who looks on the face of an old friend.
@@ -40,7 +40,7 @@ A man came up, followed by two or three servants. They went down and stood near 
      Then Frodo stirred and said nothing for some time. Then two voices came together in the dark, stillness. One was soft and soft and spoke slowly in his broken Elvish language, the other a higher and more gruff language. The third voice spoke in a harsh and harsh voice. One could hear the sound of some of the words that were being spoken, and could hear them as words spoken by a dwarf of dwarven origin.
      Frodo opened his eyes wide, and looked around. Then suddenly the voice spoke again. `Look, my friends! Look!
 
-#1000 epochs
+# 1000 epochs
      Frodo's hope hope was that we would survive long enough to reach the top and see the end of this great battle, even if we only ended up there.'
      The moon was shining now, and its curving edge lay over the sea in a thin ray of light. The stars and stripes of dawn had faded behind as far as the eyes could reach. The wind was in the West, and all the trees were alive.
      Frodo was watching the wisps of white flecked cloud about the giant with a keen gleam in his eye: the moonlight glimmered in his feet and head, and he smiled as he saw it. The wind seemed to freshen his breathing, and his shoulders as he walked: it seemed to be the freshest he had felt all summer.
@@ -61,7 +61,7 @@ A man came up, followed by two or three servants. They went down and stood near 
      `What's wrong with Gollum? ' said Frodo. Sam rubbed his hands in his ears. `You can see him, and he can see things: his big eyes on the Moon.'
      `Yes,' cried Sam, `they are very big. There is a dark secret at work in all the land.
      
-#1200 epochs
+# 1200 epochs
 'But this is not the way, I fear. This is not a way of escape, I fear. No, I do not think so; and if you think so, you are blind, perhaps: either you see not, or you do not. You would not think of seeking for a ladder up a great ravine with long necks, till you saw some signs that it was you, and that this was the way to go. I did not look, but I know that you mean to go.
      'You see, if Frodo is not found, the Ring will not help us; and you will not learn the way, unless it is set on you.'
      'That hardly seems any good hope,' answered Gandalf. 'You say something like this to yourself and I say: "Hoom, hoom! I am glad that you are alive. Even though you have said that you wished for the Ring. I hope that it will be found in a fight, and for good and for evil in the battle that you wish to fight." I hope that they will find it, and that they will know about it, or it will make their way to them." That seems to me to be a very great wish. And it seems to others that way too loud. The Enemy holds it: to think that you and I, who know so little about such matters, can cast aside our fear and wish for the Ring of Power. I am afraid that it is all going to waste on such foolishness.'
@@ -76,7 +76,7 @@ A man came up, followed by two or three servants. They went down and stood near 
      'But this is no good saying ' said the wizard. 'It is answered.' He turned and began to walk towards them.
      At that moment Sam and Frodo turned, wondering whither they were going: it seemed to them that for the moment they were going toward a small house on the far side of the hills. It was an honest-looking house, and on the left hand of the road to it; and behind it the road ran steeply. Down it and beyond a row of green pillars, far away in the midst of the range, stood two tall pillars. One of them was leaning; the other had a raised sword-feather upon
 
-#1400 epochs
+# 1400 epochs
 they came to that valley, and the trees became little more than tufts of old growth. They rode down the westward slopes of Emyn Muil, and then turned away from the green pastures of Lamedon towards the hills of the Emyn Muil as they marched on towards Dol Amroth. There were no villages here, nor houses, nor houses with houses; only herdsmen with herds. But before the travellers could reach the foot of Amon Hen they were overtaken by a long porter-house and barrow-and-messengery, each with a barrel of wood, and no other furniture or object at any rate of wood, save a few bowls of thick porridge, and an empty beer bottle. All that was needed for the sleep of this weary hobbit was a little water, a snack of fresh fruit, and perhaps a soft bed. At any rate they needed a good night's rest and a sleep for the waking pains.
      Gandalf lifted the barrow. 'Here lies Mablung the Shipwright!' he said. 'We ride to meet him; but we have not yet reached him or spoken to him. We will come and see him in his own time. Rest now, and call upon us when you have eaten!'
 
@@ -94,7 +94,7 @@ they came to that valley, and the trees became little more than tufts of old gro
      'Yes, I shall come with you to the Docks as soon as I can,' said Aragorn. 'But I cannot stay long. The young hobbit Frodo must be better. He has not slept since the morning after the dark horse-race.'
      Merry went up to the bed, and laid himself upon it
 
-#1600 epochs
+# 1600 epochs
 'But in my land it was never in the hands of the English, as you see,' said Frodo. 'If I may venture to say so, it is because the Enemy has crossed over the River and is bound on the Mountains. And why not? It is a dreadful torment for his enemies.'
     'It is his fault, but he does not all his evil deeds,' answered Gandalf. 'He chooses friends, and friends choose friends. It is fortunate for us that we have not had the Enemy as friend, or one chosen for our evil. Yet there are not many friends in the world and there are not many places where those at a loss can turn.'
     'You are fortunate,' said Frodo. 'You may say that I did not deserve the trouble in death. Yet if it had not been for the help of Gandalf, I should have long been forgotten.'
@@ -113,7 +113,8 @@ they came to that valley, and the trees became little more than tufts of old gro
 
     The next day Frodo was lighter, but his spirits dropped a notch. He said nothing and watched little. The night passed without his seeing or hearing anything strange. In that way the next day seemed to pass almost without event. But in the days that followed the dark hours passed with greater frequency, and Frodo's sleep became harder and less easy. His limbs grew light and weary. He could not climb stairs or go on roads without the help of a few good hearty hobbits. His appetite grew almost sombre. It was not easy to find or keep track of the Ragged Men that were always with him, and never quite as happy as it would have been without him.
     By the end of the ninth day he was really tired of walking, and he did not go further, until the eleventh. That was the night of Daybreak. The Shire was in mourning. The Riders had vanished. Few people remained in Mordor. There were whispers, and good grins on the faces of the hills; but the moon was now full, and her light fell as she passed northward, and far ahead southward the black shadow of the mountains loomed a little to the north. Suddenly as Frodo got down and began to crawl away once more he felt the hand of Gandalf on his shoulder, and he lifted his head
-#1800 epochs
+    
+# 1800 epochs
 As before Aragorn drove them a long way east, along with the Company of the Ring. Soon after their victory at Ford the enemy came under Orcs, and so lost most of their leading men, who fled when the Orcs advanced; for they were now all set upon them. So the Company now marched slowly and unthinkingly along the east-bank of the Ferry, until it ended in the grasslands about Bree; and it came to an island in the River Celephais, on the north-side of the Ferry itself. There lay many fair hills, among which stood a strong hill-top. It was, as all such places must be, palest among the hills of the Shire, and very many merrily pass about it, though they seldom came nearer than a mile away. It was not a rough hill; its own fortunes, as seemed to have been borne out of the great barren lands that lie round about, had left it little more than an ensign. But there were some caves there that had been made during the evil years, when Boromir imprisoned Gollum; and there were also some places where the dark shadows lay down in deep gullies behind many hills, where no man could possibly tread. They had come to the very heart of the Great River, on the eastern side of the hill, that Boromir had named Sméagol.
      There lived a certain Wise Old Took, who was rather tall and lanky, and like a great oak he sat upon a small mound; but at their feet now upon the banks of the Ferry he had gathered his people and built a house of hallows. For his they called it Took Hill, after his good grey mist-bellow. For the Took had borne the house of Beregond from its making in the days of the Great King, which were now many centuries old. And he was the older of the two; his father was the last Elder that ever lived upon the Hill.
      There were, moreover, some trees growing on the banks of the Ferry, chiefly bay-trees, but there were also eglantine-trees, and there were other trees of diverse kinds, many of which were weeping or gnawing at the stones on the banks to bring them to a greater height. These were of a kind strange to hobbits: they did not grow in trees themselves, but they sucked the fluids out of the ground beneath their feet, raising the height of hill upwards, until it was nearly round. For in places, the ground was covered with pools and fountains like livid swamps, where the foul air passed through to a silver water dripping darkly down: a gully to the dark banks of the Ferry-way.
@@ -124,7 +125,7 @@ As before Aragorn drove them a long way east, along with the Company of the Ring
      'It is a curious tale, but it is no cause for alarm,' said Aragorn. 'It
 
 # fully trained, temp 0.75
-#1 
+# 1 
 A little while later Gandalf came and examined the chest. There were no other wounds or bruises that Frodo could see. 'I suppose that you have been on the road?' he asked.
      'Yes, I have been on the road,' answered Frodo. 'But I did not see the riders. I thought only of my master and of Sam.'
      'They were far away,' said Gandalf. 'I hoped that they were still in your company; for you are a most careful worker and tracker, I guess. I hope that you have not been in your chambers too long. Seldom does a hobbit roam free in the Wild today, as you have been. And to think that you were ever afraid to open them in your sleep!'
@@ -136,7 +137,7 @@ A little while later Gandalf came and examined the chest. There were no other wo
      'He was wearing a white cloak that shone like silver in the sun; and a shining helm, and gleaming plates under his heavy eyelids. I did not dare to enter his chamber. But I got out a little while later, when it was dark and I could not see any more.
      'He was so proud and magnificent; and I could not have sat by him, and I ran after him as he walked beside me. I think that I shouted and puffed, when I saw that he was crying out: "O yes, yes, yes
 
-#2 (.70 temp)
+# 2 (.70 temp)
 The storm was over, and the sun was setting, and before them a tall peak was seen rising in the West. They were beginning to feel weary. They turned away: their hearts were too busy with their fears to look back.
      'You have no right to tell me how you would feel in your own land, Gandalf,' said Legolas. 'You are coming with me to take me to see my relatives, and my own king. I am going to Elrond's house to see the count of my people and my own folk.'
      'Yes, yes, we shall all be in the king's house,' said Gandalf. 'But you shall tell me of your ride when you come, and I will do what I can for you. I do not know your master's name.'
