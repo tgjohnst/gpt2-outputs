@@ -59,7 +59,7 @@
          a wandering wanderer,
         a wandering wanderer,
 
-a wandering wanderer.
+    a wandering wanderer.
 
          a weary hobbit,
         a king of the fields,
