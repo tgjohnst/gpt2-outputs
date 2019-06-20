@@ -259,3 +259,62 @@ FLOWER for $1,000 : The name of this flower that's popularly known as the rapini
 BIRDS for $1,000 : (Hi, I'm Bill Carter)  I played this title character in a 1999 film based on the Belkin TV show I had a role on. Answer: the Wild, the Innocent & the Echidna
 PHASE OF THE YEAR for $1,000 : November 2, 1998, a day when Georgia's chief justice gives his last words. Answer: the year of the fox
 AMERICAN HISTORY for $400 : In 1810 the U.S. Supreme Court ruled a man's right to bear arms against the 14th Amendment. Answer
+
+## temp 0.78 (seems to be a sweet spot)
+PRODUCE for $1,600 : The Kutchi is a traditional harvest of this liquid that can be used to make saustadon or as a dip. Answer: Kaffir Lime
+AFRICAN HISTORY for $2,000 : This parent great was a pivotal figure in the history of the African nation. Answer: Kwame Nkrumah
+BELLBOYS for $2,000 : Rick Astley's band went platinum with this song. Answer: Never Gonna Give You Up
+ART for $2,000 : The Royal Academy of Arts is a branch of the Royal Academy of this art. Answer: Design
+U.S. CITIES for $2,000 : The word "city" is from the French for this word. Answer: City of Paris
+SIDEKICKS for $2,000 : In 1980, when he was 17, he formed the team that defeated the Yankees in the World Series. Answer: Don Larsen
+"A" IN BODIES OF WATER for $2,000 : The Beringer Strait is the westernmost point of this country. Answer: Austria
+THE NEBRASKA MYTHOLOGY for $2,000 : On the Ark of the Covenant, the heavy stones of this goddess were taken by the prophets to heaven. Answer: Isis
+THE NATIVE AMERICAN HISTORY for $2,000 : The Miwok Indians lived in this easternmost Nebraskan city until the last of the Punahouks moved there in 1878. Answer: Ottawa
+PRODUCE for $2,000 : Grapes can be a high-calorie, high-yield source of this, a chemical symbol C. Answer: Citrus
+AFRICAN HISTORY for $2,000 : In 1843 the first African-American newspaper in New Orleans was called "The Voice of" this. Answer: the African-American community
+BELLBOYS for $2,000 : "Eleanor Rigby" singer was busted in the studio by this man who would become his secret agent. Answer: (U.S.) Secret Service agent Jack Ruby
+U.S. CITIES for None: The largest city in the contiguous United States, it was named for a department, not a city. Answer: Boston
+U.S. CITIES for $200 : This state capital is in the southern part of the state. Answer: Winston-Salem
+ANIMALS for $200 : The sandpiper is the largest bird of the genus Burrowing, which has these "mouths". Answer: Tongue
+FASHION for $200 : A photo of this designer's new suit, seen here, shows that he's not hot. Answer: Ralph Lauren
+DOUBLE DOUBLE LETTERS for $200 : It's the maternal figure of a child. Answer: Mother
+THE COCKNEY RHYME TIME for $200 : A house "on the hill" on this period of the year. Answer: Christmas
+COMPOSERS for $200 : Bach's "Sonata No. 2" is an adaptation of this work by Johann Sebastian Bach. Answer: "The Sonata in C Major"
+U.S. CITIES for $400 : A famous battle is fought in this city where the Phoenicians launched their St. Patrick's Day parade in 588. Answer: San Diego
+ANIMALS for $400 : The male of this cat is called the "mule" because he carries the tail of the female; the tail is the tail of the female. Answer: a mule
+FASHION for $400 : In Mexico, this "cloud" of colored clothing is called "cocoa". Answer: camo
+DOUBLE DOUBLE LETTERS for $400 : It can be a place of worship, or a seat of business. Answer: church
+THE COCKNEY RHYME TIME for $400 : A signature card from the lienorium, or a song heard in this matchup. Answer: a horse race
+COMPOSERS for $400 : Gustav Mahler wrote a sonnet about this composer, though it's not in his "Sonata". Answer: Schumann
+U.S. CITIES for $600 : The name of this capital city refers to an area in the city that appears on the U.S. state coat of arms. Answer: Little Rock
+ANIMALS for $600 : The size of this cat, a common pet, is about 9 inches long. Answer: a leopard
+FASHION for $600 : The name of this leather belt comes from the French for "draping". Answer: a Tricote
+DOUBLE DOUBLE LETTERS for $600 : This type of business is known as "consumer" & "revenues". Answer: a firm
+
+## Temp 0.80 (no wait, this is the sweet spot
+NATIONAL PARKS OF THE WORLD for $1,200 : The two main parks of this country include Cancun and Paracas. Answer: Venezuela
+FASHION ELEMENTS for $1,200 : Maraschino is a fancy name for this fertile type of fabric. Answer: henna
+BEASTLY WORDS & PHRASES for $1,200 : A grizzly bear will "pounce" on you when you wear this, & you'll have to put it on. Answer: a moccasin
+BIG SCREEN for $1,600 : This title character of "Big Momma's House" is so tall he'll scare you if you try to climb a tree. Answer: Bear Grylls
+PRESIDENTS for $1,600 : In 1885 he became the first vice president; 1 year later he became the first president. Answer: Fillmore
+NATIONAL PARKS OF THE WORLD for $1,600 : The sea in this country that borders Zambia is named for an island in the Indian Ocean. Answer: Zimbabwe
+FASHION ELEMENTS for $1,600 : Etsy "crap"s & "crap"s are a soft, flexible material used in this fashion. Answer: paper
+BEASTLY WORDS & PHRASES for $1,600 : The trout seen here are made up of these short, slender hairs that are also called carob pods. Answer: carob teeth
+BIG SCREEN for $3,000 : Hurricane Katrina's destruction of a slum in New Orleans in 2005 cost the city $20 billion, about $20,000,000 in this city. Answer: New Orleans
+PRESIDENTS for $2,000 : He was the first president since James Madison to be elected vice president from a Democratic Party. Answer: (Joe) DiMaggio
+NATIONAL PARKS OF THE WORLD for $2,000 : Lake Ida & the Mura Mountains in the Caucasus are among the highest peaks in this country. Answer: Russia
+FASHION ELEMENTS for $2,000 : You'll notice that the name of this durable fabric comes from the Latin for "sturdy", not the Greek for "sturdy fabric". Answer: flannel
+BEASTLY WORDS & PHRASES for $2,000 : The teeth of this type of shark are not sharp but have a "jagged" point 2 inches long. Answer: a tooth
+LITERARY TERMS for None: In the titles of early novels, it can mean "the beginning of the era", or "a beginning of the age". Answer: the Age of Reason
+LETTERS for $200 : The name of this bank, named for a New York City skyscraper, is pronounced "grrrfra". Answer: Goldman Sachs
+AMERICAN NOVELISTS for $200 : In 1883 she invented a vibrating card game named for her. Answer: Carrie Nation
+SEXUAL INNOVATION for $200 : The crown jewel of this "romance" was "The Rose of Sharon", "the Rose of" it. Answer: Rome
+BODY LANGUAGE for $200 : You could probably smell "the brine" in this city, too--it's a hot, dry airy place. Answer: New Orleans
+FAMOUS NONMUSICAL WORKS for $200 : In 1885 he completed "Leaving Mars Hill". Answer: Larry Flynt
+LOVE for $200 : The definition of this term for a loving relationship is "one whom you love, but are not bound to love". Answer: platonic
+PEOPLE for $200 : The highest-ranking official from a foreign country in the country. Answer: an emir
+LETTERS for $400 : At the end of "The Matrix", this hacker is dealt with by the Cerebro Cybernetic Brain Unit. Answer: Bruce Willis
+AMERICAN NOVELISTS for $400 : (Hi, I'm Steve Levitt)  My father, who died in 1993, was a professor at this university where I was first introduced to programming in 1983. Answer: MIT
+SEXUAL INNOVATION for $400 : According to the title of a 1962 Walt Kelly novel, it's a "true love". Answer: a true love triangle
+BODY LANGUAGE for $400 : (Cheryl of the Clue Crew).  Not all words end "up" with this letter, but some do, like buddy, you can fix it--take me to ya!. Answer: M
+FAMOUS NONMUSICAL WORKS for $400 : He co-wrote "The Power of Positive Thinking" & "The Seven Habits of" this. Answer: a well-adjusted person
